@@ -1,5 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import './firebase-init-in-sw'
+
+// navigator.serviceWorker.register('./firebase-init-in-sw.js')
+
 
 function App() {
   return (
